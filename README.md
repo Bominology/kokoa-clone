@@ -1,1 +1,1 @@
-# kokoa-clone-study
+# kokoa-clone
